@@ -1,0 +1,8 @@
+{
+  "name": "Remix Creative Playbook",
+  "description": "An interactive learning guide and presentation for creative strategy and production.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
